@@ -1,9 +1,10 @@
 # Forms
 
-|  |  |
-| :--- | :--- |
-| [How to autocomplete two-factor authentication codes with a single HTML attribute](https://gomakethings.com/how-to-autocomplete-two-factor-authentication-codes-with-a-single-html-attribute/) | 10/28 |
-| [How to create an autocomplete input with only HTML](https://gomakethings.com/how-to-create-an-autocomplete-input-with-only-html/?mc_cid=c61de3cb62&mc_eid=[UNIQID]) | 3/5 |
+|                                                                                                                                                                                                |        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [The search element](https://www.scottohara.me/blog/2023/03/24/search-element.html?utm\_source=newsletter\&utm\_medium=email\&utm\_campaign=wdrl-311)                                          | 5/4/23 |
+| [How to autocomplete two-factor authentication codes with a single HTML attribute](https://gomakethings.com/how-to-autocomplete-two-factor-authentication-codes-with-a-single-html-attribute/) | 10/28  |
+| [How to create an autocomplete input with only HTML](https://gomakethings.com/how-to-create-an-autocomplete-input-with-only-html/?mc\_cid=c61de3cb62\&mc\_eid=\[UNIQID])                       | 3/5    |
 
 {% code title="Form" %}
 ```markup
@@ -66,11 +67,10 @@
 ```
 {% endcode %}
 
-|  |  |
-| :--- | :--- |
-| [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) |  |
-| [https://www.w3schools.com/html/html\_forms.asp](https://www.w3schools.com/html/html_forms.asp) |  |
-| &lt;label&gt; |  |
-| &lt;fieldset&gt; |  |
-| &lt;legend&gt; |  |
-
+|                                                                                                                                  |   |
+| -------------------------------------------------------------------------------------------------------------------------------- | - |
+| [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) |   |
+| [https://www.w3schools.com/html/html\_forms.asp](https://www.w3schools.com/html/html\_forms.asp)                                 |   |
+| \<label>                                                                                                                         |   |
+| \<fieldset>                                                                                                                      |   |
+| \<legend>                                                                                                                        |   |
