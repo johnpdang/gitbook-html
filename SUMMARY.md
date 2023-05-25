@@ -8,9 +8,9 @@
 * [Forms](forms.md)
 * [Lists](lists.md)
 * [Images](images.md)
+* [Popover](popover.md)
 * [Quotes](quotes.md)
 * [SVG](svg.md)
 * [Tabs](tabs.md)
 * [Tags](tags.md)
 * [Video](video.md)
-
