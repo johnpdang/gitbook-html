@@ -1,10 +1,11 @@
 # DOM
 
-|                                                                                     |        |
-| ----------------------------------------------------------------------------------- | ------ |
-| [Using HTML elements as CSS masks](https://expensive.toys/blog/black-pixel-masking) | 8/6/23 |
-|                                                                                     |        |
-|                                                                                     |        |
+|                                                                                               |         |
+| --------------------------------------------------------------------------------------------- | ------- |
+| [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/) | 4/28/24 |
+| [Using HTML elements as CSS masks](https://expensive.toys/blog/black-pixel-masking)           | 8/6/23  |
+|                                                                                               |         |
+|                                                                                               |         |
 
 innerWidth
 
