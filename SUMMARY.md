@@ -11,6 +11,7 @@
 * [Images](images.md)
 * [Popover](popover.md)
 * [Quotes](quotes.md)
+* [Resources](resources.md)
 * [SVG](svg.md)
 * [Tabs](tabs.md)
 * [Tags](tags.md)
