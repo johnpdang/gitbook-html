@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Here’s What We Learned From the First State of HTML Survey](https://frontendmasters.com/blog/state-of-html-2023-results-2/?ref=web-design-weekly.com)                                         | 6/5/24    |
 | [The Future of Native HTML Templating and Data Binding](https://eisenbergeffect.medium.com/the-future-of-native-html-templating-and-data-binding-5f3e52fda259)                                 | 8/18/23   |
 | [My Favorite HTML Features That Nobody is Talking About](https://radiant-brushlands-42789.herokuapp.com/blog.devgenius.io/my-favorite-html-features-that-nobody-is-talking-about-88dc28c9e92b) | 8/16      |
 | [HTML and CSS techniques to reduce your JavaScript](https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/)                                                   | 5/28      |
