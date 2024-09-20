@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pages](README.md)
+* [Aside](aside.md)
 * [Anchor link](anchor-link.md)
 * [Button](button.md)
 * [Dialog](dialog.md)
