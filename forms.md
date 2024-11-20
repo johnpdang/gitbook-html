@@ -1,11 +1,12 @@
 # Forms
 
-|                                                                                                                                                                                                |         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [The selectmenu Element is No More…Long Live select!](https://thathtml.blog/2024/09/new-select-styling-proposal/)                                                                              | 10/7/24 |
-| [The search element](https://www.scottohara.me/blog/2023/03/24/search-element.html?utm\_source=newsletter\&utm\_medium=email\&utm\_campaign=wdrl-311)                                          | 5/4/23  |
-| [How to autocomplete two-factor authentication codes with a single HTML attribute](https://gomakethings.com/how-to-autocomplete-two-factor-authentication-codes-with-a-single-html-attribute/) | 10/28   |
-| [How to create an autocomplete input with only HTML](https://gomakethings.com/how-to-create-an-autocomplete-input-with-only-html/?mc\_cid=c61de3cb62\&mc\_eid=\[UNIQID])                       | 3/5     |
+|                                                                                                                                                                                                |          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Stop Writing Extra Code: HTML Inputs Are More Powerful Than You Think](https://www.youtube.com/watch?v=iifnGw0WJIA)                                                                           | 11/20/24 |
+| [The selectmenu Element is No More…Long Live select!](https://thathtml.blog/2024/09/new-select-styling-proposal/)                                                                              | 10/7/24  |
+| [The search element](https://www.scottohara.me/blog/2023/03/24/search-element.html?utm\_source=newsletter\&utm\_medium=email\&utm\_campaign=wdrl-311)                                          | 5/4/23   |
+| [How to autocomplete two-factor authentication codes with a single HTML attribute](https://gomakethings.com/how-to-autocomplete-two-factor-authentication-codes-with-a-single-html-attribute/) | 10/28    |
+| [How to create an autocomplete input with only HTML](https://gomakethings.com/how-to-create-an-autocomplete-input-with-only-html/?mc\_cid=c61de3cb62\&mc\_eid=\[UNIQID])                       | 3/5      |
 
 {% code title="Form" %}
 ```markup
