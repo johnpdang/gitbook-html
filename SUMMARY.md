@@ -5,6 +5,7 @@
 * [Aside](aside.md)
 * [Anchor link](anchor-link.md)
 * [Button](button.md)
+* [Canvas](canvas.md)
 * [Dialog](dialog.md)
 * [DOM](dom.md)
 * [Education](education.md)
