@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [HTML is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/?ref=dailydev)                                                                                                | 8/25/25   |
 | [State of HTML 2025 now open! • Lea Verou](https://app.daily.dev/posts/state-of-html-2025-now-open-lea-verou-l8s22hbgj)                                                                        | 8/13/25   |
 | [Just fucking use HTML](https://app.daily.dev/posts/just-fucking-use-html-nlqawb4vo)                                                                                                           | 5/19/25   |
 | [5 Unique HTML Elements You Might Not Know](https://dev.to/matin676/5-unique-html-elements-you-might-not-know-1h9i?context=digest)                                                             | 7/10/24   |
