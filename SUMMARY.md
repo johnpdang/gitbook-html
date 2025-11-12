@@ -10,6 +10,7 @@
 * [DOM](dom.md)
 * [Education](education.md)
 * [Forms](forms.md)
+* [Headers](headers.md)
 * [Lists](lists.md)
 * [Images](images.md)
 * [Popover](popover.md)
