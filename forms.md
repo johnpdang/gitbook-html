@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/?ref=dailydev)                                                                                                             | 11/16/25 |
 | [HTML Selects Are Actually Styleable Now](https://salehmubashar.com/blog/html-selects-are-actually-styleable-now?ref=dailydev)                                                                 | 11/7/25  |
 | [HTML Form Validation is heavily underused](https://app.daily.dev/posts/html-form-validation-is-heavily-underused-epkwkv6po)                                                                   | 2/5/25   |
 | [Stop Writing Extra Code: HTML Inputs Are More Powerful Than You Think](https://www.youtube.com/watch?v=iifnGw0WJIA)                                                                           | 11/20/24 |
