@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Simple One-Time Passcode Inputs](https://cloudfour.com/thinks/simple-one-time-passcode-inputs/?ref=dailydev)                                                                                  | 11/26/25 |
 | [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/?ref=dailydev)                                                                                                             | 11/16/25 |
 | [HTML Selects Are Actually Styleable Now](https://salehmubashar.com/blog/html-selects-are-actually-styleable-now?ref=dailydev)                                                                 | 11/7/25  |
 | [HTML Form Validation is heavily underused](https://app.daily.dev/posts/html-form-validation-is-heavily-underused-epkwkv6po)                                                                   | 2/5/25   |
