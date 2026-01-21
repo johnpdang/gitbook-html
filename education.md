@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [State of HTML 2025](https://app.daily.dev/posts/the-state-of-html-2025-the-results-are-in--akqhjwair)                                                                                         | 1/21/26   |
 | [Introducing the HTML element](https://app.daily.dev/posts/introducing-the-geolocation-html-element-klyhhpdxd)                                                                                 | 1/14/26   |
 | [HTML is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/?ref=dailydev)                                                                                                | 8/25/25   |
 | [State of HTML 2025 now open! • Lea Verou](https://app.daily.dev/posts/state-of-html-2025-now-open-lea-verou-l8s22hbgj)                                                                        | 8/13/25   |
