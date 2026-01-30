@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Why I Use HTML for Planning and Spec-Driven Development](https://spin.atomicobject.com/html-spec-driven-development/?ref=dailydev)                                                            | 1/30/26   |
 | [State of HTML 2025](https://app.daily.dev/posts/the-state-of-html-2025-the-results-are-in--akqhjwair)                                                                                         | 1/21/26   |
 | [Introducing the HTML element](https://app.daily.dev/posts/introducing-the-geolocation-html-element-klyhhpdxd)                                                                                 | 1/14/26   |
 | [HTML is Dead, Long Live HTML](https://acko.net/blog/html-is-dead-long-live-html/?ref=dailydev)                                                                                                | 8/25/25   |
