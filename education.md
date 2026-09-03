@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                |           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [New Things You Should Know About HTML Here in Mid 2026](https://blog.master.dev/new-things-you-should-know-about-html-here-in-mid-2026/?via=dailydev)                                         | 9/3/26    |
 | [Lost, forgotten, and unfamiliar HTML](https://thoughtbot.com/blog/lost-forgotten-and-unfamiliar-html?ref=dailydev)                                                                            | 5/28/26   |
 | [Why I Use HTML for Planning and Spec-Driven Development](https://spin.atomicobject.com/html-spec-driven-development/?ref=dailydev)                                                            | 1/30/26   |
 | [State of HTML 2025](https://app.daily.dev/posts/the-state-of-html-2025-the-results-are-in--akqhjwair)                                                                                         | 1/21/26   |
